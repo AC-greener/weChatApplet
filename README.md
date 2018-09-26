@@ -4,5 +4,5 @@
 下面是一些项目的图片：
 1.
 
-<img src="https://github.com/AC-greener/weChatApplet/blob/master/imgs/Screenshot_20180507-160836.png" width=50% height=50% />
+<img src="https://github.com/AC-greener/weChatApplet/blob/master/imgs/Screenshot_20180524-115712.png" width=350% height=35% />
 
