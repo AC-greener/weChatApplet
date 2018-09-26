@@ -21,7 +21,7 @@
 
 5. 
 
-<img src="https://github.com/AC-greener/weChatApplet/blob/master/imgs/mmexport1526360506617.jpg" width=35% height=35% />
+<img src="https://github.com/AC-greener/weChatApplet/blob/master/imgs/mmexport1525753945668.jpg" width=35% height=35% />
 
 6. 
 
@@ -31,7 +31,5 @@
 
 <img src="https://github.com/AC-greener/weChatApplet/blob/master/imgs/mmexport1525753951010.jpg" width=35% height=35% />
 
-8. 
 
-<img src="https://github.com/AC-greener/weChatApplet/blob/master/imgs/mmexport1525753945668.jpg" width=35% height=35% />
 
